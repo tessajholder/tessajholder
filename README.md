@@ -42,3 +42,13 @@
 * 🌐 **LinkedIn**: [in/tessa-holder](https://www.linkedin.com/in/tessa-holder)
 * 📧 **Email**: [tessajholder@gmail.com](mailto:tessajholder@gmail.com)
 * 📍 **Location**: Long Beach, CA
+
+ ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tessajholder&show_icons=true&theme=radial&hide_border=true" alt="Tessa's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessajholder&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" />
+</p>
