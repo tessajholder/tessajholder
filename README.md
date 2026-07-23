@@ -1,4 +1,4 @@
-# Hi there, I'm Tessa Holder (she/her) 👋
+# Hi there! I'm Tessa Holder (she/her) 👋
 
 🎓 **B.S. Computer Science** at California State University, Long Beach (Expected May 2028)  
 🏆 President's Scholar | AI/ML Concentration | Cyber Security Applications Minor | Honors Program  
