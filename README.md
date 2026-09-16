@@ -16,6 +16,7 @@
 
 ### 🛠️ Currently Working On
 * 🌐 Developing my **Personal Portfolio Website** to showcase interactive projects and data science applications.
+* Completing the **Break Through Tech Fall AI Studio Project** in collaboration with Anote.
 
 ---
 
